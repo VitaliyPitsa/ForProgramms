@@ -10,4 +10,4 @@ int main()
     v = z + x - c;
     count << v << endl;
 }
-1
+
